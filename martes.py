@@ -9,8 +9,13 @@ class Imagen():
 
 class Sonido():
     def reproducir(self):
-        pass
+        print("Reproduciendo.....")
     def volumen(self):
         pass
     def fourier(self):
+        pass
+class Git():
+    def push(self):
+        pass
+    def add(self):
         pass
